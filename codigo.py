@@ -1,4 +1,4 @@
-nombre = "cbas"
+nombre = "soy"
 apellido = "flores"
 
 saludo = "hola " + nombre + " " + apellido + " como estas?"
